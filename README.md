@@ -140,4 +140,4 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 
 <hr>
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
