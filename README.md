@@ -51,9 +51,11 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 [![My Skills](https://skillicons.dev/icons?i=vite,tailwind,scss,nodejs,heroku,mongodb)](https://skillicons.dev)
 
 * Front-End
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sylvia-H&repo=MetaWall_week4&theme=rose_pine)](https://github.com/sylvia-H/MetaWall_week4)
 
 * Back-End
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sylvia-H&repo=NodeJS_MetaWall_week5_BE&theme=rose_pine)](https://github.com/sylvia-H/NodeJS_MetaWall_week5_BE)
 
 <br>
