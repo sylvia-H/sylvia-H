@@ -118,7 +118,7 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 <details>
 <summary>Repo</summary>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sylvia-H&repo=Hex_LayoutProject_week8_YOGA&theme=rose_pine)](https://github.com/sylvia-H/Hex_LayoutProject_week6)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sylvia-H&repo=Hex_LayoutProject_week6&theme=rose_pine)](https://github.com/sylvia-H/Hex_LayoutProject_week6)
 
 </details>
 
@@ -128,7 +128,7 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 <details>
 <summary>Repo</summary>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sylvia-H&repo=Hex_LayoutProject_week8_YOGA&theme=rose_pine)](https://github.com/sylvia-H/Hex_JS_finalProject)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sylvia-H&repo=Hex_JS_finalProject&theme=rose_pine)](https://github.com/sylvia-H/Hex_JS_finalProject)
 
 </details>
 
