@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 # 👋 Hi, I'm Sylvia
 
 ![](https://komarev.com/ghpvc/?username=sylvia-H&color=green) [:e-mail:](mailto:sylvie11gaia@gmail.com) [:globe_with_meridians: ](https://sylvia-h.github.io/)
@@ -139,5 +141,3 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 - :globe_with_meridians: My blog - [Sylvia's Babel](https://sylvia-h.github.io/)
 
 <hr>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
