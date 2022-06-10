@@ -138,3 +138,6 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 - :e-mail: E-mail - [sylvie11gaia@gmail.com](mailto:sylvie11gaia@gmail.com)
 - :globe_with_meridians: My blog - [Sylvia's Babel](https://sylvia-h.github.io/)
 
+<hr>
+
+![](./profile-3d-contrib/profile-season-animate.svg)
