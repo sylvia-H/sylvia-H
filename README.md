@@ -37,7 +37,7 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 
 ## My Projects
 
-### [MetaWall 元宇宙社交圈](https://sylvia-h.github.io/MetaWall_week4/#/)
+### [MetaWall 元宇宙社交圈](https://sylvia-h.github.io/MetaWall/#/)
 [![My Skills](https://skillicons.dev/icons?i=vite,tailwind,scss,nodejs,heroku,mongodb)](https://skillicons.dev)
 
 <details>
