@@ -43,14 +43,14 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 <details>
 <summary>Front-End Repo</summary>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sylvia-H&repo=MetaWall_week4&theme=rose_pine)](https://github.com/sylvia-H/MetaWall_week4)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sylvia-H&repo=MetaWall&theme=rose_pine)](https://github.com/sylvia-H/MetaWall)
 
 </details>
 
 <details>
 <summary>Back-End Repo</summary>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sylvia-H&repo=NodeJS_MetaWall_week5_BE&theme=rose_pine)](https://github.com/sylvia-H/NodeJS_MetaWall_week5_BE)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sylvia-H&repo=NodeJS_MetaWall_week6_BE&theme=rose_pine)](https://github.com/sylvia-H/NodeJS_MetaWall_week6_BE)
 
 </details>
 
