@@ -50,7 +50,7 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 <details>
 <summary>Back-End Repo</summary>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sylvia-H&repo=NodeJS_MetaWall_week6_BE&theme=rose_pine)](https://github.com/sylvia-H/NodeJS_MetaWall_week6_BE)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sylvia-H&repo=MetaWall_BE&theme=rose_pine)](https://github.com/sylvia-H/MetaWall_BE)
 
 </details>
 
