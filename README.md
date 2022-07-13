@@ -29,6 +29,11 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
+## Codewars / Leetcode Status
+
+[![](https://www.codewars.com/users/Sylvia%20Hu/badges/micro)](https://www.codewars.com/users/Sylvia%20Hu)
+[![Leetcode](https://img.shields.io/badge/-Leetcode：Sylvia-%23E44D27?style=flat-square&logo=leetcode&logoColor=ffffff)](https://leetcode.com/SylviaH_tw/)
+
 ## Sylvia's GitHub Stats
 
 ![Sylvia-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=sylvia-H&show_icons=true&theme=swift)
@@ -38,6 +43,7 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 ## My Projects
 
 ### [MetaWall 元宇宙社交圈](https://sylvia-h.github.io/MetaWall/#/)
+
 [![My Skills](https://skillicons.dev/icons?i=vite,tailwind,scss,nodejs,heroku,mongodb)](https://skillicons.dev)
 
 <details>
@@ -57,6 +63,7 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 <hr>
 
 ### [好食遞](https://sylvia-H.github.io/HealthyDiet)
+
 [![My Skills](https://skillicons.dev/icons?i=vue,scss,bootstrap)](https://skillicons.dev)
 
 <details>
@@ -69,6 +76,7 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 <hr>
 
 ### 2021 第三屆 The F2E 前端競賽作品集
+
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,scss,javascript,css,html)](https://skillicons.dev)
 
 #### [台灣旅遊景點導覽](https://sylvia-h.github.io/TheF2E_2021_week1/)
@@ -101,6 +109,7 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 <hr>
 
 ### Bootstrap5 + SCSS RWD 切版作品
+
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,scss,javascript,css,html)](https://skillicons.dev)
 
 #### [瑜珈課程網站](https://sylvia-h.github.io/Hex_LayoutProject_week8_YOGA/)
@@ -112,7 +121,6 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 
 </details>
 
-
 #### [藝術展官網](https://sylvia-h.github.io/Hex_LayoutProject_week6)
 
 <details>
@@ -121,7 +129,6 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sylvia-H&repo=Hex_LayoutProject_week6&theme=rose_pine)](https://github.com/sylvia-H/Hex_LayoutProject_week6)
 
 </details>
-
 
 #### [傢俱官網](https://sylvia-h.github.io/Hex_JS_finalProject)
 
@@ -135,6 +142,7 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 <hr>
 
 ### Contact Me
+
 - :e-mail: E-mail - [sylvie11gaia@gmail.com](mailto:sylvie11gaia@gmail.com)
 - :globe_with_meridians: My blog - [Sylvia's Babel](https://sylvia-h.github.io/)
 
