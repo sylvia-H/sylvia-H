@@ -191,4 +191,4 @@ I'm a self-taught Front-End developer with a strong interest in programming and 
 
 <hr>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](https://raw.githubusercontent.com/sylvia-H/sylvia-H/state/profile-3d-contrib/profile-green-animate.svg)
